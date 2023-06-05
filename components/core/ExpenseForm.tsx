@@ -54,9 +54,9 @@ const AmountTypeField = () => {
 const ExpenseFormWrapper = styled.div`
   display: flex;
   flex-direction: column;
-  height: 40vh;
-  width: 60vh;
-  margin: 30vh auto;
+  height: 100%;
+  /* margin: 30vh auto; */
+  /* width: 60vh; */
   border-radius: 7px;
   box-shadow: 0 1px 4px var(--clr-cta), 0 2px 8px rgba(0, 0, 0, 0.1);
   padding: 15px 25px;
